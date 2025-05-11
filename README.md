@@ -50,8 +50,7 @@ Wireframes avoid visual details like colors, typography, or graphics, serving as
    - **Example**: A filter dropdown in a hotel booking wireframe clarifies how users will refine search results.  
 
 ---
-## Types of Wireframes.
-#### Low-Fidelity vs. High-Fidelity Wireframes  
+## Types of Wireframes.  
 
 ### Low-Fidelity Wireframes  
 - **Characteristics**:  
